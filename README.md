@@ -4,6 +4,7 @@
 
 每天一道大厂面试题，一年后再回头，会感谢曾经努力的自己！
 
+
 ## 今日面试题
 
 第 2 题：如何消除数组 [1,2,3,3,4,4,5,5,6,1,9,3,25,4] 里面重复的元素？
@@ -22,5 +23,8 @@
 <br/>
 
 
-## 公众号
+## 联系我
+
+觉得不错点个star, 欢迎加群进入前端全栈之家，一起交流学习。
+
 ![Image text](https://github.com/jinmulong/daily-interview/blob/main/images/qrcode.jpg)
