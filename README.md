@@ -20,3 +20,7 @@
 解析：[第 1 题](https://github.com/jinmulong/daily-interview/issues/1)
 
 <br/>
+
+
+## 公众号
+(https://github.com/jinmulong/daily-interview/images/qrcode.jpg)
