@@ -23,4 +23,4 @@
 
 
 ## 公众号
-(https://github.com/jinmulong/daily-interview/images/qrcode.jpg)
+![Image text](https://github.com/jinmulong/daily-interview/blob/main/images/qrcode.jpg)
