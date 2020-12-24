@@ -28,5 +28,6 @@
 ## 联系我
 
 觉得不错点个star, 欢迎加群进入前端全栈之家，一起交流学习。
-
+![Image text](https://github.com/jinmulong/daily-interview/blob/main/images/jinmulong.jpg)
+<br/>
 ![Image text](https://github.com/jinmulong/daily-interview/blob/main/images/qrcode.jpg)
