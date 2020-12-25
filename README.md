@@ -10,23 +10,7 @@
 ## 今日面试题
 
 第3题：下面代码执行后，控制台会输出name变量，它的值是？
-```javascript
-var name = "strick";
 
-function func1(){
-   console.log(name);
-}
-
-function func2(){
-   var name = "freedom";
-   function inner(){
-      func1();
-   }
-   inner();
-}
-
-func2();
-```
 
 解析：[第 3 题](https://github.com/jinmulong/daily-interview/issues/3)
 
