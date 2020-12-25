@@ -1,6 +1,6 @@
 # daily-interview
 
-加入「前端开发、全栈开发面试互助群」学习小组，搜索公众号「前端全栈之家」，关注即可加入！
+加入「前端全栈开发面试互助群」学习小组，搜索公众号「前端全栈之家」，关注即可加入！
 
 每天一道大厂面试题，一年后再回头，会感谢曾经努力的自己！
 
@@ -50,6 +50,4 @@ func2();
 
 ## 联系我
 
-觉得不错点个star, 欢迎加群进入前端全栈之家，一起交流学习。微信号:legend_fun
-
-![Image text](https://github.com/jinmulong/daily-interview/blob/main/images/qrcode.png)
+觉得不错点个star, 欢迎关注公众号「前端全栈之家」，加群一起交流学习。微信号: legend_fun
