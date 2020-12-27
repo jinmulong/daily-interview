@@ -9,14 +9,20 @@
 
 ## 今日面试题
 
-第4题：有一个数组，其值为[1,[2,[3,4,2],2],5,[6]]，如何才能输出[1,2,3,4,2,2,5,6] ?
+第5题：第5题：下面是一个按钮，如何在单击类型的事件处理程序中阻止事件传播？
 
-解析：[第 4 题](https://github.com/jinmulong/daily-interview/issues/4)
+解析：[第 5 题](https://github.com/jinmulong/daily-interview/issues/5)
 
 <br/>
 
 
 ## 最近汇总
+
+第4题：有一个数组，其值为[1,[2,[3,4,2],2],5,[6]]，如何才能输出[1,2,3,4,2,2,5,6] ?
+
+解析：[第 4 题](https://github.com/jinmulong/daily-interview/issues/4)
+
+<br/>
 
 第3题：下面代码执行后，控制台会输出name变量，它的值是？
 ```javascript
