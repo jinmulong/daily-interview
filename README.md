@@ -9,6 +9,15 @@
 
 ## 今日面试题
 
+第4题：有一个数组，其值为[1,[2,[3,4,2],2],5,[6]]，如何才能输出[1,2,3,4,2,2,5,6] ?
+
+解析：[第 4 题](https://github.com/jinmulong/daily-interview/issues/4)
+
+<br/>
+
+
+## 最近汇总
+
 第3题：下面代码执行后，控制台会输出name变量，它的值是？
 ```javascript
 var name = "strick";
@@ -31,9 +40,6 @@ func2();
 解析：[第 3 题](https://github.com/jinmulong/daily-interview/issues/3)
 
 <br/>
-
-
-## 最近汇总
 
 第 2 题：如何消除数组 [1,2,3,3,4,4,5,5,6,1,9,3,25,4] 里面重复的元素？
 
