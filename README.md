@@ -9,7 +9,9 @@
 
 ## 今日面试题
 
-第5题：第5题：下面是一个按钮，如何在单击类型的事件处理程序中阻止事件传播？
+第5题：下面是一个按钮，如何在单击类型的事件处理程序中阻止事件传播？
+
+<button type="button" id="btn">提交</button>
 
 解析：[第 5 题](https://github.com/jinmulong/daily-interview/issues/5)
 
