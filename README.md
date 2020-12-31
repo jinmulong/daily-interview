@@ -9,6 +9,18 @@
 
 ## 今日面试题
 
+第6题：找出下面数组中重复出现的元素。
+```javascript
+var arr = [1,2,2,3,4,4,5];
+```
+
+解析：[第 6 题](https://github.com/jinmulong/daily-interview/issues/6
+
+<br/>
+
+
+## 最近汇总
+
 第5题：下面是一个按钮，如何在单击类型的事件处理程序中阻止事件传播？
 ```javascript
 <button type="button" id="btn">提交</button>
@@ -17,9 +29,6 @@
 解析：[第 5 题](https://github.com/jinmulong/daily-interview/issues/5)
 
 <br/>
-
-
-## 最近汇总
 
 第4题：有一个数组，其值为[1,[2,[3,4,2],2],5,[6]]，如何才能输出[1,2,3,4,2,2,5,6] ?
 
