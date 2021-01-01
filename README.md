@@ -9,17 +9,29 @@
 
 ## 今日面试题
 
-第6题：找出下面数组中重复出现的元素。
+第7题：执行下面的代码后，arr数组的值为？
 ```javascript
-var arr = [1,2,2,3,4,4,5];
+var arr = [4,1,5,2,3];
+arr.sort(function(a,b){
+    return a>b;
+})
 ```
 
-解析：[第 6 题](https://github.com/jinmulong/daily-interview/issues/6
+解析：[第 7 题](https://github.com/jinmulong/daily-interview/issues/7)
 
 <br/>
 
 
 ## 最近汇总
+
+第6题：找出下面数组中重复出现的元素。
+```javascript
+var arr = [1,2,2,3,4,4,5];
+```
+
+解析：[第 6 题](https://github.com/jinmulong/daily-interview/issues/6)
+
+<br/>
 
 第5题：下面是一个按钮，如何在单击类型的事件处理程序中阻止事件传播？
 ```javascript
