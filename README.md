@@ -87,3 +87,5 @@ func2();
 ## 联系我
 
 觉得不错点个star, 欢迎关注公众号「前端全栈之家」，加群一起交流学习。微信号: legend_fun
+
+![Image text](https://github.com/jinmulong/daily-interview/blob/main/image/qrcode.png)
