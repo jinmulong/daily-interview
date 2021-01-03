@@ -9,6 +9,15 @@
 
 ## 今日面试题
 
+第8题：HTML5的离线存储有哪些？
+
+解析：[第 8 题](https://github.com/jinmulong/daily-interview/issues/8)
+
+<br/>
+
+
+## 最近汇总
+
 第7题：执行下面的代码后，arr数组的值为？
 ```javascript
 var arr = [4,1,5,2,3];
@@ -20,9 +29,6 @@ arr.sort(function(a,b){
 解析：[第 7 题](https://github.com/jinmulong/daily-interview/issues/7)
 
 <br/>
-
-
-## 最近汇总
 
 第6题：找出下面数组中重复出现的元素。
 ```javascript
