@@ -1,6 +1,6 @@
 # daily-interview
 
-加入「前端开发面试互助群」学习小组，搜索公众号「前端全栈之家」，关注即可加入！
+加入「前端全栈之家交流群」学习小组，搜索公众号「前端全栈之家」，关注即可加入！
 
 每天一道大厂面试题，一年后再回头，会感谢曾经努力的自己！
 
@@ -9,14 +9,20 @@
 
 ## 今日面试题
 
-第8题：HTML5的离线存储有哪些？
+第9题：为了获取页面中所有的checkbox，应该怎么做（不使用第三方框架）?
 
-解析：[第 8 题](https://github.com/jinmulong/daily-interview/issues/8)
+解析：[第 9 题](https://github.com/jinmulong/daily-interview/issues/9)
 
 <br/>
 
 
 ## 最近汇总
+
+第8题：HTML5的离线存储有哪些？
+
+解析：[第 8 题](https://github.com/jinmulong/daily-interview/issues/8)
+
+<br/>
 
 第7题：执行下面的代码后，arr数组的值为？
 ```javascript
