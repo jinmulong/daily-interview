@@ -9,14 +9,20 @@
 
 ## 今日面试题
 
-第9题：为了获取页面中所有的checkbox，应该怎么做（不使用第三方框架）?
+第10题：请设置一个已知ID的div的内容为***，字体颜色设置为黑色（不使用第三方框架）
 
-解析：[第 9 题](https://github.com/jinmulong/daily-interview/issues/9)
+解析：[第 10 题](https://github.com/jinmulong/daily-interview/issues/10)
 
 <br/>
 
 
 ## 最近汇总
+
+第9题：为了获取页面中所有的checkbox，应该怎么做（不使用第三方框架）?
+
+解析：[第 9 题](https://github.com/jinmulong/daily-interview/issues/9)
+
+<br/>
 
 第8题：HTML5的离线存储有哪些？
 
